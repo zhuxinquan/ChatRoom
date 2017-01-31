@@ -1,0 +1,6 @@
+一个简单的聊天室
+userdata.db是所有的注册用户的信息
+client.c、sever.c和input_key.h是代码文件
+client和server分别是客户端和服务器端的可执行文件
+sys_log是系统日志文件，err_log是错误日志
+其余以.db结尾的是不同用户的消息记录文件
